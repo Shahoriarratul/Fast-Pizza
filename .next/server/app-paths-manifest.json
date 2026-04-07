@@ -1,3 +1,8 @@
 {
-  "/menu/page": "app/menu/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/cart/page": "app/cart/page.js",
+  "/menu/page": "app/menu/page.js",
+  "/order/[orderId]/page": "app/order/[orderId]/page.js",
+  "/order/new/page": "app/order/new/page.js",
+  "/page": "app/page.js"
 }

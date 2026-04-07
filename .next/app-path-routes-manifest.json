@@ -2,7 +2,7 @@
   "/_not-found/page": "/_not-found",
   "/cart/page": "/cart",
   "/menu/page": "/menu",
-  "/order/new/page": "/order/new",
   "/order/[orderId]/page": "/order/[orderId]",
+  "/order/new/page": "/order/new",
   "/page": "/"
 }
